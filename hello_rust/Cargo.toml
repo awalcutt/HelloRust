@@ -4,3 +4,4 @@ version = "0.1.0"
 authors = ["Alex Walcutt <awalcutt@csh.rit.edu>"]
 
 [dependencies]
+solicit = "0.4.4"
